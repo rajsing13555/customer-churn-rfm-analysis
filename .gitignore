@@ -1,0 +1,3 @@
+# The raw dataset is ~43MB — too large to commit comfortably to a portfolio repo.
+# See README.md "Reproducing from scratch" for the download link.
+data/online_retail_raw.csv
